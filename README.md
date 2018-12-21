@@ -3,6 +3,16 @@
 ### Refernce
 https://vegibit.com/vue-sibling-component-communication/
 
+## Clone Repo
+```
+git clone https://github.com/alucidwolf/Vue-Parent-Children-Components.git
+```
+
+## Change Directory
+```
+cd .\Vue-Parent-Children-Components\
+```
+
 ## Project setup
 ```
 npm install
