@@ -1,5 +1,8 @@
 # vue-ep-cms-content
 
+### Refernce
+https://vegibit.com/vue-sibling-component-communication/
+
 ## Project setup
 ```
 npm install
